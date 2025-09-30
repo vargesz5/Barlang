@@ -1,5 +1,6 @@
 ﻿using barlangapplication.Model;
 using Microsoft.EntityFrameworkCore;
+using barlangapplication.DTOs;
 
 namespace barlangapplication.Data
 {
@@ -10,5 +11,6 @@ namespace barlangapplication.Data
 
         }
         public DbSet<Barlang> barlangok { get; set; }
+        public DbSet<barlangapplication.DTOs.VarosokBarlangDTO> VarosokBarlangDTO { get; set; } = default!;
     }
 }

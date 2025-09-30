@@ -1,0 +1,74 @@
+﻿@page
+@model barlangapplication.Pages.SearchModel
+@{
+}
+<form method=get>
+    <select asp-for="@Model.VarosNev">
+        @foreach (var item in Model.Varosok)
+        {
+            <option value="@item">@item</option>    
+        }
+    </select>
+    <button>Szűrés</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlangok[0].Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlangok[0].Nev)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlangok[0].Hossz)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlangok[0].Kiterjedes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlangok[0].Melyseg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlangok[0].Magassag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barlangok[0].Telepules)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Barlangok)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nev)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hossz)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kiterjedes)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Melyseg)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Magassag)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telepules)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
