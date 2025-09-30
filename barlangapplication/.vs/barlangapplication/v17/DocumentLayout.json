@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\model\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\model\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Barlang.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Model\\Barlang.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Model\\Barlang.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Model\\Barlang.cs",
+              "RelativeToolTip": "barlangapplication\\Model\\Barlang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:11:48.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("barlangapplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03f0210593fdc946a8eaf153ebf08a401fef589d")]
 [assembly: System.Reflection.AssemblyProductAttribute("barlangapplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("barlangapplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
