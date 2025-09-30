@@ -26,6 +26,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Máté\Documents\Programozas\Iskola\Mesterlevel\Backend\2025.09.30\Barlang\barlangapplication\barlangapplication
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Máté/Documents/Programozas/Iskola/Mesterlevel/Backend/2025.09.30/Barlang/barlangapplication/barlangapplication/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Máté/Documents/Programozas/Iskola/Mesterlevel/Backend/2025.09.30/Barlang/barlangapplication/barlangapplication/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Máté/Documents/Programozas/Iskola/Mesterlevel/Backend/2025.09.30/Barlang/barlangapplication/barlangapplication/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Máté/Documents/Programozas/Iskola/Mesterlevel/Backend/2025.09.30/Barlang/barlangapplication/barlangapplication/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Máté/Documents/Programozas/Iskola/Mesterlevel/Backend/2025.09.30/Barlang/barlangapplication/barlangapplication/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

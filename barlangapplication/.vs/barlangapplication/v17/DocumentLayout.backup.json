@@ -1,12 +1,240 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|c:\\users\\m\u00E1t\u00E9\\documents\\programozas\\iskola\\mesterlevel\\backend\\2025.09.30\\barlang\\barlangapplication\\barlangapplication\\model\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E75403-5D9B-4C15-A1D2-FC819C9D0437}|barlangapplication\\barlangapplication.csproj|solutionrelative:barlangapplication\\model\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "barlangapplication\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:22:40.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "barlangapplication\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T06:22:40.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "barlangapplication\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:22:40.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "barlangapplication\\Pages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T06:22:40.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "barlangapplication\\Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:22:40.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Details.cshtml",
+              "RelativeToolTip": "barlangapplication\\Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T06:22:40.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "barlangapplication\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:22:40.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "barlangapplication\\Pages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T06:22:40.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "barlangapplication\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:22:40.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "barlangapplication\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Pages\\Create.cshtml",
+              "RelativeToolTip": "barlangapplication\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T06:22:40.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BarlangDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Data\\BarlangDbContext.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Data\\BarlangDbContext.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Data\\BarlangDbContext.cs",
+              "RelativeToolTip": "barlangapplication\\Data\\BarlangDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:16:50.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Program.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Program.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Program.cs",
+              "RelativeToolTip": "barlangapplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:15:40.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Barlang.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Model\\Barlang.cs",
+              "RelativeDocumentMoniker": "barlangapplication\\Model\\Barlang.cs",
+              "ToolTip": "C:\\Users\\M\u00E1t\u00E9\\Documents\\Programozas\\Iskola\\Mesterlevel\\Backend\\2025.09.30\\Barlang\\barlangapplication\\barlangapplication\\Model\\Barlang.cs",
+              "RelativeToolTip": "barlangapplication\\Model\\Barlang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:11:48.604Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
